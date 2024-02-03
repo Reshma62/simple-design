@@ -194,7 +194,7 @@ const Login = () => {
                           size={24}
                         />
                       ) : (
-                        "Register"
+                        "Login"
                       )}
                     </button>
                     <p className="text-sm text-gray-700 ">
